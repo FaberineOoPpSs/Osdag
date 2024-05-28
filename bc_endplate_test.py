@@ -19,6 +19,7 @@ bcinput.set_input_values(design_dictionary)
 
 
 '''
+Couldn't find anything better to test so adding this just to test if git is working correctly
 # Hardcoded inputs
 bcinput = BeamColumnEndPlate()
 
